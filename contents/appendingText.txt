@@ -1,0 +1,1 @@
+Here is the result of read cmd: This is the first file.Here is the result of read cmd: This is the first file.
